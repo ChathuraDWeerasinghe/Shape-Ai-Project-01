@@ -202,7 +202,7 @@ section{
 	display: none;
 }
 .newsletter__subscribe__container{
-	margin-top: 1rem;
+	margin: 1rem;
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
@@ -355,7 +355,7 @@ section{
 		height: 220px;
 	}
 	.newsletter__subscribe__container{
-		margin-top: 1rem;
+		margin: 3rem;
 		display: flex;
 		justify-content: center;
 		flex-direction: column;
