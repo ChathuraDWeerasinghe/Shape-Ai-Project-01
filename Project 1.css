@@ -355,7 +355,7 @@ section{
 		height: 220px;
 	}
 	.newsletter__subscribe__container{
-		margin: 3rem;
+		margin: 1rem;
 		display: flex;
 		justify-content: center;
 		flex-direction: column;
